@@ -7,5 +7,8 @@ public class testCase002 {
 
         System.out.println(" checking test case 002");
 
+        System.out.println(" bug report");
+
+
     }
 }
